@@ -1,0 +1,4 @@
+#Sat Jul 28 11:36:23 IST 2018
+base.0=/home/bvimit424/Desktop/shiv android/LoginAttempts/app/build/intermediates/transforms/dexMerger/debug/10
+renamed.0=classes.dex
+file.0=/home/bvimit424/Desktop/shiv android/LoginAttempts/app/build/intermediates/transforms/dexMerger/debug/10/classes.dex
